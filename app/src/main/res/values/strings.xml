@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testando</string>
+    <string name="v_deo_atp">Vídeo ATP</string>
+    <string name="dialer">Dialer</string>
+    <string name="texto">Texto</string>
+    <string name="depois_de_criarem">Depois de criarem a vossa primeira aplicação, o que se segue? O que são estes ficheiros e classes? O que é uma Activity? E os tempos do moshe? o que é feito deles?</string>
+    <string name="fundo">Fundo</string>
+
+</resources>
